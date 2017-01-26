@@ -1,0 +1,49 @@
+body {
+	background-image: url("https://cdn.pixabay.com/photo/2014/04/05/11/39/rain-316580_960_720.jpg");
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-family: calibri;
+	font-size: 300%;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: calibri;
+	font-size: 400%;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-family: calibri;
+	font-size: 150%;
+}
+
+a {
+	color: orange;
+	text-align: center;
+	font-family: calibri;
+	font-size: 150%;
+}
+
+td {
+	color: white;
+	font-family: calibri;
+	font-size: 150%;
+}
+
+
+li {
+	color: white;
+	text-align: center;
+	font-family: calibri;
+}
+
+ul {
+	text-align: center;
+	font-family: calibri;
+}
