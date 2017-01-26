@@ -13,7 +13,7 @@ provenientes da queima dos combustíveis fósseis.<br>
   As chuvas "normais" tambem são ligeiramente ácidas, pois apresentam um valor de pH próximo de 5,6. Essa acidez natural é causada pelo dióxido de<br>
 carbono que se junta com água, formando um ácido fraco, conhecido como ácido carbónico:<br><br>
 CO2 (g) + H2O (l) ---› H2CO3 (aq)<br>
-<img src="3.jpg"><br>
+<img src="chuva-acida-resumo-01.jpg"><br>
 <a href="https://chuvas-acidas-grupo-3.000webhostapp.com/">Voltar</a>
 </b></p>
 </body>
